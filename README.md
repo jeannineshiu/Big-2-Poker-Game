@@ -1,6 +1,7 @@
 # Big-2 Poker Game
 
 ## 🧩 Class Diagram
+<img src="images/Big-2_OOA_Class.png" width="800"/>
 <img src="images/Big-2_OOD_class.png" width="800"/>
 
 ## Requirements Overview
