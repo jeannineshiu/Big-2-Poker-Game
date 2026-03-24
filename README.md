@@ -1,5 +1,8 @@
 # Big-2 Poker Game
 
+## 🧩 Class Diagram
+<img src="images/Big-2_OOD_class.png" width="800"/>
+
 ## Requirements Overview
 You are tasked with developing a **Big-2 Poker Game**. The game is named **Big-2** because the highest card in the game is the **2**. When developing the **Big-2**, you must implement every game rule carefully and design the game modules to be **extensible**, allowing future requirements to be supported easily.
 
